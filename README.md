@@ -1,4 +1,4 @@
-# Protocol Markup Language (PML) Prosal.
+# Protocol Markup Language (PML) Proposal.
 
 Protocol Markup Language (PML) is a domain-specific language designed for the express purpose of fast-tracking protocol development and implementation.
 
